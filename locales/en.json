@@ -1,0 +1,198 @@
+{
+  "app": { "name": "EPS-TOPIK Go", "tagline": "Study for the EPS-TOPIK Korean test" },
+  "nav": {
+    "home": "Home", "lessons": "Lessons", "vocab": "Words", "practice": "Practice", "exam": "Mock exam",
+    "more": "More", "settings": "Settings", "about": "About", "privacy": "Privacy policy",
+    "history": "History", "mistakes": "Mistakes", "main": "Main menu", "grammar": "Grammar"
+  },
+  "common": {
+    "loading": "Loading…", "retry": "Try again", "back": "Back", "next": "Next", "previous": "Previous",
+    "close": "Close", "cancel": "Cancel", "confirm": "Confirm", "send": "Send", "sample": "Sample",
+    "of": "of", "minutes": "minutes", "questions": "questions", "correct": "Correct", "wrong": "Wrong",
+    "unanswered": "Unanswered", "answered": "Answered", "flagged": "Flagged", "score": "Score",
+    "language": "Language", "play": "Play", "finish": "Finish",
+    "contentError": "Content could not be loaded. Connect to the internet, or download the content in Settings while online.",
+    "sampleBadge": "Sample content, not an official exam question"
+  },
+  "onboarding": {
+    "title": "Choose your language", "subtitle": "You can change this later in Settings.", "continue": "Continue"
+  },
+  "guest": {
+    "notice": "Your progress is saved on this device only. Export a backup in Settings so you do not lose it.",
+    "link": "Open Settings"
+  },
+  "home": {
+    "due": "Words to review", "lastMock": "Last mock exam", "noMock": "No attempts yet",
+    "lessonsDone": "Lessons completed", "reviewNow": "Start review", "takeMock": "Take a mock exam",
+    "continueExam": "Continue your exam", "mistakes": "Mistakes to retry", "interview": "Skill & Interview"
+  },
+  "backup": {
+    "title": "Backup", "save": "Save a backup", "saved": "Backup saved. Keep the file safe. You can load it again in Settings.",
+    "afterExam": "Your progress is saved only in this browser. Save a backup file so you do not lose your scores.",
+    "reminder": "You have new progress that is not backed up. Save a backup file so you do not lose it."
+  },
+  "lessons": {
+    "hubHangul": "Hangul", "hubHangulDesc": "Learn to read the Korean letters", "hubCountLetters": "{n} letters and sounds", "hubNumbers": "Numbers", "hubNumbersDesc": "Counting, time, dates and money", "hubCountItems": "{n} items", "hubWords": "Words", "hubWordsDesc": "Vocabulary grouped by industry", "hubGrammar": "Grammar", "hubGrammarDesc": "Sentence patterns with examples", "hubSituations": "Situations", "hubSituationsDesc": "Short lessons for work and daily life", "hubInterview": "Skill Test & Interview", "hubInterviewDesc": "Examiner commands, self-intro & Q&A", "hubCountDone": "{d} of {n} done",
+    "title": "Lessons", "unit": "Unit", "words": "Vocabulary", "grammar": "Grammar", "dialogue": "Dialogue",
+    "check": "Check (5 questions)", "done": "Completed", "notDone": "Not completed",
+    "playLine": "Play line", "playAll": "Play all", "slow": "Slow speed (0.75×)", "normal": "Normal speed",
+    "transcript": "Transcript", "transcriptHint": "The transcript appears after you listen once.",
+    "checkResult": "Check finished: {c} of {t} correct.", "startCheck": "Start the check",
+    "noUnits": "No lessons yet. The content owner adds lessons in units.json.",
+    "audioError": "This audio could not be played. Check your connection.",
+    "grammarLink": "Grammar patterns"
+  },
+  "vocab": {
+    "byIndustry": "By industry", "allWords": "All words", "wordsCount": "{n} words", "dueShort": "{n} due", "reviewedShort": "{r} of {n} reviewed", "comingSoon": "Coming soon", "overlapNote": "A word can belong to more than one industry, so the numbers add up to more than the total.",
+    "title": "Words", "search": "Search Korean, Khmer or English", "all": "All", "dueCount": "{n} due",
+    "review": "Review", "showAnswer": "Show answer", "again": "Again", "hard": "Hard", "good": "Good", "easy": "Easy",
+    "noResults": "No words found.", "range": "{from}–{to} of {total}", "pageOf": "Page {p} of {n}", "goToPage": "Go to page", "pages": "Pages",
+    "noResults": "No words found.", "example": "Example", "reviewDone": "All done for now. Come back later.",
+    "cardOf": "Card {i} of {n}", "filter": "Industry",
+    "speedQuiz": "Speed quiz", "handsFree": "Hands-free audio mode", "pause": "Pause", "skip": "Skip"
+  },
+  "interview": {
+    "title": "Skill Test & Interview",
+    "commandsTab": "Examiner Commands",
+    "introTab": "Self-Introduction",
+    "qaTab": "Common Q&A",
+    "commandsDesc": "Practice the physical commands examiners say during the 2nd stage test.",
+    "introBuilderTitle": "Build your Korean self-introduction",
+    "nameLabel": "Your name (in Korean or English)",
+    "ageLabel": "Your age",
+    "familyLabel": "Family members",
+    "industryLabel": "Target industry",
+    "copyScript": "Copy script",
+    "copied": "Self-introduction copied",
+    "selfTestMode": "Self-test mode (hide answers)",
+    "showAnswer": "Show sample answer"
+  },
+  "learn": { "progress": "{d} of {n} learned", "mark": "I know this", "marked": "Learned" },
+  "grammar": {
+    "quiz": "Quiz", "quizAll": "Quiz: 10 mixed questions", "quizOne": "Quiz this pattern", "quizBest": "Best {b}/{n}", "quizQuestion": "What does this sentence mean?", "quizResult": "You got {c} of {n} right.", "quizAgain": "Try again", "quizBack": "Back to grammar", "quizNone": "Not enough patterns for a quiz yet.", "quizRight": "Correct!", "quizWrong": "Not quite. The right meaning is shown in green.", "quizPattern": "Pattern", "quizOf": "Question {i} of {n}", "quizCount": "{d} of {n} quizzed", "quizCategory": "Quiz: this type only",
+    "title": "Grammar", "search": "Search a pattern, Korean, Khmer or English", "all": "All",
+    "level": "Level {n}", "levelFilter": "Level", "categoryFilter": "Type", "count": "{n} patterns",
+    "none": "No grammar patterns yet.", "noResults": "No patterns found.",
+    "form": "How to form it", "meaning": "Meaning and use", "examples": "Examples",
+    "cat": {
+      "particle": "Particles", "ending": "Endings", "connector": "Connectors",
+      "expression": "Expressions", "modifier": "Describing nouns"
+    }
+  },
+  "hangul": {
+    "title": "Hangul", "intro": "Korean letters are built from consonants and vowels, joined in blocks. Tap a letter, listen, and repeat it aloud.",
+    "khmerNote": "The Khmer sounds shown are only close, not exact. Always listen to the audio.",
+    "none": "No Hangul lesson yet. Download the content in Settings while online.",
+    "sound": "Sound", "khmerSound": "Close Khmer sound", "example": "Example word", "listenSound": "Listen to the sound", "listenWord": "Listen to the word",
+    "group": { "consonant": "Consonants", "double_consonant": "Double consonants", "vowel": "Vowels", "compound_vowel": "Compound vowels", "batchim": "Final consonants (받침)" },
+    "groupHelp": {
+      "consonant": "14 basic consonants.",
+      "double_consonant": "Tight sounds, said with no puff of air.",
+      "vowel": "10 basic vowels.",
+      "compound_vowel": "Vowels made by joining two vowels.",
+      "batchim": "A consonant at the bottom of a block. Only 7 sounds are possible."
+    }
+  },
+  "numbers": {
+    "title": "Numbers", "intro": "Korean has two number systems. Learn which one goes with money, time, age and counting.",
+    "groupFilter": "Number type", "listen": "Listen", "none": "No numbers lesson yet. Download the content in Settings while online.",
+    "group": { "sino": "Sino-Korean", "native": "Native Korean", "counter": "Counters", "usage": "In real life" },
+    "groupHelp": {
+      "sino": "일, 이, 삼 … for money, dates, phone numbers, minutes and floors.",
+      "native": "하나, 둘, 셋 … for counting things, age and the hour.",
+      "counter": "Put the number before the counter, for example 사과 세 개.",
+      "usage": "How numbers are said in everyday situations."
+    }
+  },
+  "tags": {
+    "chemicals": "Chemicals", "metals": "Metals", "food": "Food", "electronics": "Electronics",
+    "workplace-safety": "Workplace safety", "general": "General",
+    "construction": "Construction", "agriculture": "Agriculture", "fishery": "Fishery"
+  },
+  "practice": {
+    "title": "Practice", "bySection": "By section", "byUnit": "By unit", "reading": "Reading", "listening": "Listening",
+    "all": "All sections", "start": "Start", "showTranslation": "Show translation", "hideTranslation": "Hide translation",
+    "flag": "Flag for later", "unflag": "Remove flag", "flaggedOnly": "Flagged questions", "explanation": "Explanation",
+    "right": "Correct!", "notRight": "Not correct.", "finished": "Practice finished", "result": "{c} of {t} correct",
+    "noQuestions": "There are no questions for this choice.", "set": "Set {n}", "setCount": "{n} questions", "notStarted": "Not started", "inProgress": "{p} of {n} done", "done": "Finished", "best": "Best: {c}/{n}", "continue": "Continue", "doAgain": "Do again", "restart": "Restart", "moreWays": "Other ways to practice", "noSets": "There are no questions in this section yet.", "backToSets": "Back to sets", "again": "Choose again", "slow": "Slow (0.75×)"
+  },
+  "report": {
+    "button": "Report a problem", "title": "Report a problem", "type": "What is wrong?",
+    "type_WRONG_ANSWER": "Wrong answer", "type_TRANSLATION_PROBLEM": "Translation problem",
+    "type_AUDIO_PROBLEM": "Audio problem", "type_OTHER": "Other",
+    "message": "Details (optional)", "send": "Send report",
+    "thanks": "Thank you. Your report was sent.", "failed": "The report could not be sent. Try again later."
+  },
+  "exam": {
+    "paperTitle": "Mock exams", "paperIntro": "Tap one to start. The questions are the same, in the same order, every time.", "mockName": "Mock exam {n}", "paperInfo": "{q} questions, {m} min", "pastTitle": "Your past attempts", "pastEmpty": "No attempts yet. Your scores will appear here so you can compare them.",
+    "title": "Mock exam", "start": "Start the mock exam", "resume": "Continue your exam", "discard": "Discard it and start over",
+    "guideTitle": "Before you start",
+    "guideFormat": "The exam has two sections: Reading ({rq} questions) and Listening ({lq} questions). You have {tm} minutes in total. Every question has 4 options and one correct answer.",
+    "guideScoring": "Each section is worth {max} points and the total is {total} points. An unanswered question scores {un} points.",
+    "guideRelative": "Results are ranked against other candidates in your industry. Compare with your own past attempts.",
+    "guideNoHelp": "During the exam there are no translations and no hints.",
+    "guideReplayNo": "Each Listening recording can be played only once.",
+    "guideReplayYes": "You may replay Listening recordings.",
+    "guideBackYes": "You can go back to earlier questions in the same section.",
+    "guideBackNo": "You cannot go back to earlier questions.",
+    "guideFlag": "You can flag questions and check them again later.",
+    "guideLock": "There is one clock for the whole exam. Switch between Reading and Listening at any time. When time runs out, your answers are submitted automatically.",
+    "guideSmall": "This practice pack has only {r} Reading and {l} Listening questions, so this mock exam is shorter than a real one.",
+    "guideNeedRules": "The exam rules could not be loaded. Connect to the internet once, then try again.",
+    "guideNoQuestions": "There are not enough questions to start an exam.",
+    "timeLeft": "Time left", "questionOf": "Question {i} of {n}", "navigator": "Questions",
+    "flag": "Flag", "unflag": "Remove flag", "finishSection": "Finish this section", "finishExam": "Finish and submit",
+    "confirmSection": "Finish the {section} section? You will not be able to return to it.",
+    "confirmSubmit": "Submit your answers? You cannot change them afterwards.",
+    "unansweredWarn": "{n} questions are not answered yet.",
+    "playAudio": "Play audio", "audioPlayed": "Audio already played", "audioPlaying": "Playing…",
+    "audioError": "The audio could not be played.",
+    "timeUp": "Time is up. The section was locked.", "sectionLabel": "Section",
+    "answeredState": "answered", "unansweredState": "not answered", "flaggedState": "flagged", "currentState": "current"
+  },
+  "results": {
+    "title": "Results", "total": "Total", "outOf": "{s} / {m}", "correctCount": "Correct answers",
+    "timeUsed": "Time used", "review": "Review every question", "yourAnswer": "Your answer",
+    "correctAnswer": "Correct answer", "noAnswer": "No answer", "short": "This exam had {n} questions (a full exam has {f}).",
+    "savedMistakes": "{n} questions were added to your mistake notebook.", "notFound": "This attempt was not found.",
+    "explanation": "Explanation", "backHome": "Back to Home", "minutesShort": "{m} min {s} s"
+  },
+  "history": { "title": "Attempt history", "empty": "No attempts yet.", "total": "Total" },
+  "mistakes": {
+    "title": "Mistake notebook", "empty": "No mistakes saved. Wrong answers from mock exams appear here.",
+    "retry": "Retry", "retryAll": "Retry all ({n})", "streak": "Correct in a row: {n} of {max}",
+    "removed": "Well done. This question was removed from your notebook.", "stillThere": "Keep going. Answer it correctly {max} times in a row to remove it.",
+    "done": "Retry finished"
+  },
+  "settings": {
+    "title": "Settings", "language": "Interface language", "fontSize": "Text size", "font0": "Normal", "font1": "Large", "font2": "Extra large",
+    "dark": "Dark mode", "wifi": "Download over Wi-Fi only",
+    "wifiBlocked": "You are not on Wi-Fi. Connect to Wi-Fi, or turn off this setting.",
+    "analytics": "Share anonymous exam statistics",
+    "analyticsNotice": "If you turn this on, after each mock exam we send: which question you answered, which option you chose, whether it was correct, your two section scores, and a random one-time code. We do not send your name, IP address, device details or any account. You can turn it off at any time.",
+    "data": "Your progress", "dataNotice": "Your progress is saved on this device only.",
+    "export": "Export progress", "import": "Import progress", "importOk": "Progress imported.",
+    "importBad": "This file is not a valid progress file.", "importConfirm": "Importing replaces the progress on this device. Continue?",
+    "offline": "Offline content", "download": "Download", "update": "Update", "downloaded": "Downloaded (version {v})",
+    "notDownloaded": "Not downloaded", "updateAvailable": "A new version is available.", "remove": "Remove download",
+    "downloading": "Downloading… {p}%", "downloadFailed": "The download failed. Check your connection and try again.",
+    "downloadDone": "Downloaded. This content now works offline.", "checksumFailed": "The downloaded file was damaged. Try again."
+  },
+  "about": {
+    "title": "About", "purpose": "EPS Study helps Khmer speakers prepare for the EPS-TOPIK Korean language test with lessons, words, practice questions and timed mock exams.",
+    "disclaimer": "This is an independent study aid. It is not affiliated with or endorsed by HRD Korea.",
+    "support": "Support", "supportEmail": "support@example.com",
+    "privacyTitle": "Privacy summary",
+    "privacySummary": "There are no accounts. Your progress stays on your device. If you choose to share anonymous exam statistics, only answers and scores are sent, never your name or IP address.",
+    "version": "Version {v}", "privacyLink": "Read the privacy policy"
+  },
+  "privacy": {
+    "title": "Privacy policy", "placeholder": "Placeholder text. The owner will replace this policy before launch.",
+    "p1": "We do not ask you to create an account and we do not collect personal data.",
+    "p2": "Your progress, attempts and mistakes are stored on your device only.",
+    "p3": "If you opt in, we receive anonymous exam answers and scores linked to a random one-time code. We do not store IP addresses or user agents.",
+    "p4": "We do not use third-party tracking or advertising scripts."
+  },
+  "languages": { "km": "ភាសាខ្មែរ", "en": "English" },
+  "a11y": { "skip": "Skip to content", "navLabel": "Main navigation", "notice": "Notice", "language": "Language" }
+}
